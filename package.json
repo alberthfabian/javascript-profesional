@@ -1,0 +1,27 @@
+{
+  "name": "javascript-profesional",
+  "version": "1.0.0",
+  "description": "This is a project with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberthfabian/javascript-profesional.git"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Alberth Fabian Perez Mendivelso (alberth.perez@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberthfabian/javascript-profesional/issues"
+  },
+  "homepage": "https://github.com/alberthfabian/javascript-profesional#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.6"
+  }
+}
